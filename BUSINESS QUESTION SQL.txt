@@ -1,0 +1,20 @@
+BUSINESS QUESTIONS
+
+BASIC :
+-- 1. Show all items in the Asian category that are available.
+-- 2. How many mexican dishes are on the menu ?
+-- 3. what are the most and least expensive american dishes on the men ?
+-- 4. How many dishes are in each category ?
+-- 5. What is the average dish price ?
+
+INTERMEDIATE :
+-- 1. What is the date range of the table?
+-- 2. How many items were ordered within this date range ?
+-- 3. Which orders had the most number of items ?
+-- 4. How many orders had more than 10 items ?	
+
+ADVANCED :
+-- 1. What were the least and most ordered items ?
+-- 2. What were the most ordered items? What categories were they in ?
+-- 3. What were the top 5 orders that spent the most money ?
+-- 4. Calculate the total number of orders and total revenue generated for each category ?
